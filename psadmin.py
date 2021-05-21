@@ -2,6 +2,7 @@
 #// argv[1] is option on/off
 #// argv[2] is IP Address of Replica
 #// argv[3] is the vdb cluster nanme for the agent to log
+import json
 import mysql.connector
 import sys
 
